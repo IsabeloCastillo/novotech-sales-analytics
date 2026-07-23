@@ -1,0 +1,4 @@
+CREATE DATABASE novotech_sales;
+USE novotech_sales;
+SHOW DATABASES;
+SHOW TABLES;CL
