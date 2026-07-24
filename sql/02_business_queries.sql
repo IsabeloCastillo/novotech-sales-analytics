@@ -284,10 +284,20 @@ ORDER BY total_orders DESC;
 -- implement corrective actions to improve order
 -- fulfillment and reduce lost sales.
 
+
+-- =====================================================
+-- CUSTOMER EXPERIENCE
+-- =====================================================
+
+-- -----------------------------------------------------
+-- Business Question:
+-- Which products are associated with the highest customer satisfaction?
+--
 -- Business Value:
 -- Identify the products associated with higher customer
 -- satisfaction to support product portfolio and customer
 -- experience decisions.
+-- -----------------------------------------------------
 
 
 SELECT
@@ -315,4 +325,25 @@ ORDER BY average_rating DESC;
 -- fulfillment and the overall purchase experience, to
 -- identify opportunities for improving customer
 -- satisfaction.
+
+-- =====================================================
+-- BUSINESS CONCLUSIONS
+-- =====================================================
+
+-- Main Findings:
+--
+-- • Smartphones are the primary revenue driver.
+-- • Revenue is concentrated in a small number of SKUs.
+-- • The loyalty program does not increase customer spending.
+-- • Premium shipping methods are associated with higher-value orders.
+-- • One-third of all orders are cancelled, representing the main operational risk.
+--
+-- Strategic Recommendations:
+--
+-- • Review the loyalty program.
+-- • Prioritize inventory and marketing investment in top-performing products.
+-- • Strengthen cross-selling strategies.
+-- • Investigate the causes of order cancellations.
+
+
 
