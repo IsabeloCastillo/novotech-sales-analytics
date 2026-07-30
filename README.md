@@ -129,7 +129,7 @@ Evaluate product performance by comparing sales, average ticket, customer rating
 
 ### Sales Trends & Time Intelligence
 
-![Sales Trends](dashboard/images/Dashboard_4_Sales_trends.png)
+![Sales Trends](dashboard/images/Dashboard_4_Sales_trend.png)
 
 **Objective**
 
