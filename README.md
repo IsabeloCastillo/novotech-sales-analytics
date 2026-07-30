@@ -1,3 +1,12 @@
+## Project Highlights
+
+- End-to-end Business Intelligence workflow
+- Python data preparation
+- MySQL relational database
+- SQL business analysis
+- Interactive Power BI dashboards
+- Business recommendations
+
 # NovoTech Sales Analytics
 
 > End-to-end Business Intelligence project analyzing sales performance, customer behavior and product analytics using MySQL, SQL, Python and Power BI.
