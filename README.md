@@ -27,6 +27,20 @@ The objective of this project is to design and develop a complete Business Intel
 
 The project covers the entire analytics workflow, including data preparation with Python, relational database design in MySQL, business-oriented SQL analysis and the development of interactive Power BI dashboards to support commercial decision-making.
 
+## 📊 Dataset
+
+The project is based on a transactional sales dataset where each row represents a single purchase.
+
+The original data was structured into three relational tables to improve data organization, reduce redundancy and facilitate SQL analysis:
+
+- **customers** — Customer demographic and loyalty information
+- **products** — Product and product category information
+- **orders** — Transactional information including purchase date, quantity, prices, ratings, order status, payment method, shipping method and add-ons
+
+The resulting relational model separates customer and product information from transactional data, providing a clean structure for SQL analysis and Business Intelligence reporting.
+
+> **Note:** The dataset is used for portfolio and analytical purposes.
+
 ## 🛠️ Technologies Used
 
 | Category | Technologies |
