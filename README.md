@@ -193,6 +193,6 @@ These documents provide further details about the business objectives, database 
 
 **Isabelo Castillo**
 
-Aspiring Data Analyst passionate about Business Intelligence, SQL, Python and Power BI.
+Data Analyst focused on Business Intelligence, SQL, Python and Power BI.
 
 GitHub: https://github.com/IsabeloCastillo
